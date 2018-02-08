@@ -1,0 +1,6 @@
+.DS_Store
+
+# Xcode
+# this ignores dummy workspace files in xcodeproj dir
+metal vs glsl kernel.xcodeproj/*
+!metal vs glsl kernel.xcodeproj/project.pbxproj
