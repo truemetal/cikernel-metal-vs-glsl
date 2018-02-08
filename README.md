@@ -27,3 +27,8 @@ You'd need A8+ powered device, e.g. iPhone 6 or newer.
     metal 8 took 394.250988960266ms
     metal 9 took 247.526049613953ms
     metal 10 took 356.340050697327ms
+
+---
+
+Cheers, Dan 
+<br>http://ios-engineer.com 
